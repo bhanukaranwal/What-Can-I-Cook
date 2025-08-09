@@ -8,5 +8,10 @@ export const themes = {
     background: "#1a1a1a",
     text: "#ffffff",
     accent: "#ff7f50"
+  },
+  ocean: {
+    background: "#001f3f",
+    text: "#ffffff",
+    accent: "#00bfff"
   }
 };
